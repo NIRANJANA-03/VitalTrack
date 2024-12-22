@@ -1,6 +1,5 @@
 
-# Health Prediction Using Lifestyle Data
-
+# VITAL-Track :Health Condition Prediction Based on Lifestyle
 This repository contains the implementation of a machine learning pipeline to predict health conditions based on lifestyle data. The project compares the performance of two classification algorithms: K-Nearest Neighbors (KNN) and Random Forest. The goal is to provide insights into how lifestyle factors influence health outcomes.
 
 ## Project Overview
